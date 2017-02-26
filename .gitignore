@@ -396,4 +396,4 @@ __pycache__/
 # End of https://www.gitignore.io/api/node,visualstudio,visualstudiocode
 
 ### For submodules ###
-typescript-node-definitions/.git
+#typescript-node-definitions/.git
